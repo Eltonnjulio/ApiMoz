@@ -48,7 +48,7 @@ public class SwaggerConfig {
             "API REST de distribuição territórial de Moçambique",
             "1.0",
             "Terms of Service",
-            new Contact("ZN Systems.Lda","http://www.dem.assa-sistemas.com","elton.cuambe@uem.ac.mz") ,
+            new Contact("EltonnJulio","","elton.cuambe@uem.ac.mz") ,
             "Apache License Version 2.0",
             "https://www.apache.org/licensen.html", new ArrayList<VendorExtension>()
              
